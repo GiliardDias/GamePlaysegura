@@ -2,7 +2,7 @@
 **Versão 0.9.8.3 Beta — 24/11/2026 — Minuta para revisão**
 
 Responsável: Giliard Luis Dias (pessoa física).
-Contato: giliadluisdias@gmail.com.
+Contato: giliardluisdias@gmail.com.
 
 1. Finalidade: processamento de quadros de vídeo para identificar regiões potencialmente sensíveis e aplicar censura no OBS Studio.
 2. Dados: quadros, nomes de cenas e fontes, configurações, eventos de conexão, desempenho, erros e arquivos temporários de efeitos e heartbeat.
