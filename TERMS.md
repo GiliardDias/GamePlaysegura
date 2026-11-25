@@ -2,7 +2,7 @@
 **Versão 0.9.8.3 Beta — 24/11/2026 — Minuta para revisão**
 
 Autor e responsável: Giliard Luis Dias (pessoa física).
-Suporte: giliadluisdias@gmail.com.
+Suporte: giliardluisdias@gmail.com.
 
 1. Objeto: software experimental Windows para auxiliar na identificação de regiões sensíveis e censura no OBS Studio. Não é produto oficial do OBS.
 2. Licença: distribuição destinada a testes, sem chave de ativação, plano comercial ou autorização expressa de redistribuição por terceiros. Licença comercial futura deverá definir preço, prazo, dispositivos e atualizações.
