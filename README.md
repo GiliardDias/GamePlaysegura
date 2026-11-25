@@ -2,7 +2,7 @@
 
 **Proteção inteligente para transmissões de jogos.**
 
-Software experimental para Windows, desenvolvido por Giliard Luis Dias, que utiliza inteligência artificial para auxiliar na censura visual de conteúdo sensível em cenas do OBS Studio.
+Software experimental, desenvolvido por Giliard Luis Dias, que utiliza inteligência artificial para auxiliar na censura visual de conteúdo sensível em cenas do OBS Studio.
 
 ## Funcionalidades
 - Detecção de regiões sensíveis e censura localizada.
@@ -14,7 +14,7 @@ Software experimental para Windows, desenvolvido por Giliard Luis Dias, que util
 O instalador será disponibilizado em [Releases](https://github.com/GiliardDias/GamePlaysegura/releases) após validação. Ainda não há download publicado.
 
 ## Segurança
-A IA pode falhar. O modo convencional pode mostrar quadros antes da análise; o modo preventivo não sincroniza áudio e vídeo. Teste em gravação local antes de transmitir. Não é um produto oficial do OBS Studio.
+A IA pode falhar. O modo convencional pode mostrar quadros antes da análise. Teste em gravação local antes de transmitir. Não é um produto oficial do OBS Studio.
 
 ## Documentação
 - [Histórico](CHANGELOG.md)
