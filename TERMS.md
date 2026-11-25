@@ -1,4 +1,4 @@
-# GamePlaySegura — Termos de uso
+8# GamePlaySegura — Termos de uso
 **Versão 0.9.8.3 Beta — 24/11/2026 — Minuta para revisão**
 
 Autor e responsável: Giliard Luis Dias (pessoa física).
@@ -14,5 +14,3 @@ Suporte: giliardluisdias@gmail.com.
 8. Responsabilidade: aplicam-se normas legais obrigatórias, inclusive direitos do consumidor quando cabíveis. Não se exclui responsabilidade que a lei não permita excluir.
 9. Alterações: mudanças relevantes serão identificadas por versão e data.
 10. Legislação: leis brasileiras, observadas as regras legais de competência e proteção do consumidor.
-
-Documento preliminar sujeito a revisão jurídica antes da comercialização.
