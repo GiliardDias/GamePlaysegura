@@ -27,4 +27,4 @@ Giliard Luis Dias — Brasil. Copyright © 2026. Direitos reservados sobre compo
 ## Políticas e suporte
 - [Política de privacidade](PRIVACY.md) — minuta
 - [Termos de uso](TERMS.md) — minuta
-- Contato: giliadluisdias@gmail.com
+- Contato: giliardluisdias@gmail.com
