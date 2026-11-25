@@ -14,5 +14,3 @@ Contato: giliardluisdias@gmail.com.
 8. Retenção: não há política comercial de retenção remota nesta versão. A desinstalação pode não apagar logs, configurações ou gravações.
 9. Terceiros e crianças: observe as bases legais e autorizações aplicáveis ao conteúdo capturado.
 10. Alterações: serão identificadas por versão e data.
-
-Documento preliminar: confirmar o comportamento dos componentes e revisar juridicamente antes da distribuição comercial.
