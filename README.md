@@ -23,3 +23,8 @@ A IA pode falhar. O modo convencional pode mostrar quadros antes da análise; o 
 
 ## Autoria
 Giliard Luis Dias — Brasil. Copyright © 2026. Direitos reservados sobre componentes autorais, respeitadas as licenças de terceiros. Código-fonte não disponibilizado neste repositório.
+
+## Políticas e suporte
+- [Política de privacidade](PRIVACY.md) — minuta
+- [Termos de uso](TERMS.md) — minuta
+- Contato: giliadluisdias@gmail.com
